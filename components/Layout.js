@@ -17,9 +17,9 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
                                     Home
                                 </a>
                             </Link>
-                            <Link href="/blog-page">
+                            <Link href="/release-page">
                                 <a className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded">
-                                    release
+                                    Release
                                 </a>
                             </Link>
                             <Link href="/contact-page">

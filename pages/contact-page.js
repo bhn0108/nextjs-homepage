@@ -18,8 +18,10 @@ const Contact = () => {
                     />
                 </div>
                 <div className="mt-4">
-                    <p className="font-bold">Address</p>
+                    <p className="font-bold">Name</p>
                     <p className="text-xs mt-2 text-gray-600">あすか</p>
+                    <p className="font-bold mt-3">Address</p>
+                    <p className="text-xs mt-2 text-gray-600">住之江</p>
                     <p className="font-bold mt-3">E-mail</p>
                     <p className="text-xs mt-2 text-gray-600">ashuka-love@gmail.com</p>
                     <p className="font-bold mt-3">Phone</p>
@@ -28,7 +30,7 @@ const Contact = () => {
                 <div className="mt-6 flex justify-around">
                     <div>
                         <a
-                            href="https://nerdcave.com/tailwind-cheat-sheet"
+                            href="https://twitter.com/"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -45,7 +47,7 @@ const Contact = () => {
                     </div>
                     <div>
                         <a
-                            href="https://nerdcave.com/tailwind-cheat-sheet"
+                            href="https://facebook.com/"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -61,7 +63,7 @@ const Contact = () => {
                     </div>
                     <div>
                         <a
-                            href="https://nerdcave.com/tailwind-cheat-sheet"
+                            href="https://github.co.jp/"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
