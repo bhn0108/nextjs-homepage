@@ -19,11 +19,11 @@ export default function Contact() {
                 </div>
                 <div className="mt-4">
                     <p className="font-bold">Name</p>
-                    <p className="text-xs mt-2 text-gray-600">あすか</p>
+                    <p className="text-xs mt-2 text-gray-600">テスト</p>
                     <p className="font-bold mt-3">Address</p>
-                    <p className="text-xs mt-2 text-gray-600">住之江</p>
+                    <p className="text-xs mt-2 text-gray-600">大阪</p>
                     <p className="font-bold mt-3">E-mail</p>
-                    <p className="text-xs mt-2 text-gray-600">mail@asuka.com</p>
+                    <p className="text-xs mt-2 text-gray-600">mail@ggogle.com</p>
                     <p className="font-bold mt-3">Phone</p>
                     <p className="text-xs mt-2 text-gray-600">000-123-456</p>
                 </div>
